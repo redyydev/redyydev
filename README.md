@@ -14,25 +14,6 @@ Since then I never stopped and today it's a passion that I have and that I never
 <br/> 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
-
-- 🔭You can find all my repositories [here](https://github.com/redyydev?tab=repositories).  
-  
-
-- ❓ Ask me about anything related to Lua/JS and related technologies.  
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
