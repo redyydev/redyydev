@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Pedro Rodrigues (Redyy)  
-  
+![Profile views counter](https://komarev.com/ghpvc/?username=redyydev&&style=flat-square)  
 
 <a href="https://github.com/redyydev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -19,7 +19,6 @@ Since then I never stopped and today it's a passion that I have and that I never
 <br/>  
 
 
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭You can find all my repositories [here](https://github.com/redyydev?tab=repositories).  
@@ -78,7 +77,6 @@ Since then I never stopped and today it's a passion that I have and that I never
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
+
 
 <br/>  
