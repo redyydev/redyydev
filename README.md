@@ -10,6 +10,8 @@ Since then I never stopped and today it's a passion that I have and that I never
 <a href="https://instagram.com/ppedrox.19" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+
+<br/>  
   
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -30,9 +32,7 @@ Since then I never stopped and today it's a passion that I have and that I never
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=redyydev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -40,7 +40,7 @@ Since then I never stopped and today it's a passion that I have and that I never
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redyydev&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr> 
 
 <br/>  
 
