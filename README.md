@@ -1,5 +1,8 @@
 ## Hey 👋, I'm Pedro Rodrigues (Redyy)  
-![Profile views counter](https://komarev.com/ghpvc/?username=redyydev&&style=flat-square)  
+I'm a FiveM developer at the moment but I also work with ReactJS and NodeJS and this passion started from a very young age when I started in JAVA to make plugins for my minecraft server.  
+Since then I never stopped and today it's a passion that I have and that I never intend to stop.   
+
+
 
 <a href="https://github.com/redyydev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -8,16 +11,9 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
-### Glad to see you here!  
-I'm a FiveM developer at the moment but I also work with ReactJS and NodeJS and this passion started from a very young age when I started in JAVA to make plugins for my minecraft server.  
-Since then I never stopped and today it's a passion that I have and that I never intend to stop.   
-  
+![Profile views counter](https://komarev.com/ghpvc/?username=redyydev&&style=flat-square)  
 
 <br/>  
-
 
 <table><tr><td valign="top" width="50%">
 
@@ -73,10 +69,3 @@ Since then I never stopped and today it's a passion that I have and that I never
 
 <br/>  
 
-  
-
-<br/>  
-
-
-
-<br/>  
