@@ -32,15 +32,10 @@ Since then I never stopped and today it's a passion that I have and that I never
 
 <br/>  
 
-<tr><td valign="top" width="20%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=redyydev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 45%" />
-
-</td><td valign="top" width="20%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redyydev&hide_border=true&layout=compact" align="left" style="width: 45%" />
-
-</td></tr> 
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=redyydev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redyydev&hide_border=true&layout=compact" align="left" style="width: 45%" />
+</div>
 
 <br/>  
 
