@@ -10,12 +10,12 @@ Since then I never stopped and today it's a passion that I have and that I never
 <a href="https://instagram.com/ppedrox.19" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-
+; height: 50px;
 <br/>  
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=redyydev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redyydev&hide_border=true&layout=compact" align="left" style="width: 45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=redyydev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 45%; height: 50px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redyydev&hide_border=true&layout=compact" align="left" style="width: 45%; height: 50px;" />
 </div>
 
 <br/>  
