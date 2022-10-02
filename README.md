@@ -11,7 +11,9 @@ Since then I never stopped and today it's a passion that I have and that I never
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
-<br/>  
+<br/> 
+
+<br/> 
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=redyydev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 45%;"/>
