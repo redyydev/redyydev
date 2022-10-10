@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Pedro Rodrigues (Redyy) 
-I'm a FiveM developer but I also work with ReactJS and NodeJS and this passion started from a very young age when I started in JAVA to make plugins for my minecraft server.  
+I'm a FiveM developer but I also work with ReactJS and NodeJS and this passion started from a very young age when I started in JAVA to make plugins for my minecraft server at the time.  
 Since then I never stopped and today it's a passion that I have and that I never intend to stop.   
 
 <a href="https://github.com/redyydev" target="_blank">
