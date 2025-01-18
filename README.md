@@ -2,15 +2,9 @@
 I'm a FiveM developer but I also work with ReactJS and NodeJS and this passion started from a very young age when I started in JAVA to make plugins for my minecraft server at the time.  
 Since then I never stopped and today it's a passion that I have and that I never intend to stop.   
 
-<a href="https://github.com/redyydev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://www.fiverr.com/redyyorton/create-a-custom-fivem-script" target="_blank">
+<img src=https://img.shields.io/badge/fiverr-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=fiverr style="margin-bottom: 5px;" />
 </a>
-<a href="https://steamcommunity.com/id/redptforever/" target="_blank">
-<img src=https://img.shields.io/badge/steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white alt=steam style="margin-bottom: 5px;" />
-</a>  
-<a href="https://discord.com/invite/RntTSebXDT" target="_blank">
-<img src=https://img.shields.io/badge/discord-%23000000.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 6px;" />
-</a>  
 
 <br/> 
 
