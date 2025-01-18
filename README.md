@@ -3,7 +3,7 @@ I'm a FiveM developer but I also work with ReactJS and NodeJS and this passion s
 Since then I never stopped and today it's a passion that I have and that I never intend to stop.   
 
 <a href="https://www.fiverr.com/redyyorton/create-a-custom-fivem-script" target="_blank">
-<img src=https://img.shields.io/badge/fiverr-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=fiverr style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/fiverr-%2324292e.svg?&style=for-the-badge&logo=fiverr&logoColor=white alt=fiverr style="margin-bottom: 5px;" />
 </a>
 
 <br/> 
